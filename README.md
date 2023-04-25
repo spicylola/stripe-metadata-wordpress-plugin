@@ -1,0 +1,1 @@
+# stripe-metadata-wordpress-plugin
