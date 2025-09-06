@@ -3,7 +3,7 @@
  * Plugin Name: Shonaike Stripe Connect
  * Plugin URI:  https://github.com/something-here-eventually
  * Description: Pass custom metadata from our Woo store to Stripe
- * Version:     0.0.1
+ * Version:     0.0.2
  * Author:      Lola Shonaike
  * Author URI:  https://github.com/your-name
  * Text Domain: shonaike-stripe-connect
